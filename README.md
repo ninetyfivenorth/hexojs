@@ -1,4 +1,6 @@
 # Hexo Official Website
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ninetyfivenorth/hexojs.svg)](https://greenkeeper.io/)
 <!-- Markdown snippet -->
 [![Build Status](https://travis-ci.org/hexojs/site.svg?branch=master)](https://travis-ci.org/hexojs/site)
 
